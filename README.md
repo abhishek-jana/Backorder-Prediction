@@ -8,7 +8,9 @@ https://github.com/rodrigosantis1/backorder_prediction/tree/master
 
 ```
 to work with rarfile library, install
-```sudo apt-get install unrar
+
+```
+sudo apt-get install unrar
 ```
 
 ## Workflows
