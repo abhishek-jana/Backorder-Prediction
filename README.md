@@ -5,7 +5,6 @@ Predicting Backorders in Inventory Mangement Context.
 
 ```
 https://github.com/rodrigosantis1/backorder_prediction/tree/master
-
 ```
 to work with rarfile library, install
 
