@@ -1,0 +1,10 @@
+pymongo
+python-dotenv
+jupyterlab
+ipykernel
+pandas
+PyYAML
+pymongo[srv]
+numpy
+scikit-learn
+-e .
