@@ -1,0 +1,9 @@
+COLUMNS:
+  brand : object
+  
+
+
+
+
+TARGET_COLUMN:
+  name: price
